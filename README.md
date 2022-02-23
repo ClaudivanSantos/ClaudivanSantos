@@ -2,7 +2,7 @@
 ## Olá, bem vindo ao meu perfil  👋
 
 - 🔭 I’m currently working on Lojas Edmil
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning React.js
 
 <div align="center">
   <a href="https://github.com/ClaudivanSantos">
