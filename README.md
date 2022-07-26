@@ -11,10 +11,8 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://icongr.am/devicon/android-plain-wordmark.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="">
-  <img align="center" alt="CSS" height="30" width="40" src="">
-  <img align="center" alt="bootstrp" height="30" width="40" src="">
+  <img align="center" alt="android" height="30" width="40" src="https://icongr.am/devicon/android-plain-wordmark.svg">
+  <img align="center" alt="IOS" height="30" width="40" src="https://icongr.am/devicon/apple-original.svg">
  <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
   <img align="center" alt="react" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="react" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
