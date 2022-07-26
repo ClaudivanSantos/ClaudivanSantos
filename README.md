@@ -15,10 +15,11 @@
   <img align="center" alt="IOS" height="30" width="40" src="https://icongr.am/devicon/apple-original.svg">
  <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
   <img align="center" alt="react" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="react" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="react" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="react" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-  <img align="center" alt="react" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
+  <img align="center" alt="materiaui" height="30" width="40"  src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" />
+  <img align="center" alt="linux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="yarn" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+  <img align="center" alt="heroku" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
 </div>
 
 ##
