@@ -1,10 +1,6 @@
 ### Hi there 👋
 ## Olá, bem vindo ao meu perfil  👋
 
-- 🔭 I’m currently working on Lojas Edmil
-- 🌱 I’m currently learning React.js
-
-
  - I’m currently working on Lojas Edmil
  - I’m use React.js witch TypeScript
  - I'm studying react native to build apps for Android and IOS
