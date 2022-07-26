@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Olá, bem vindo ao meu perfil  👋
+## Wellcome to my profile  👋
 
  - 💼 I’m currently working on Lojas Edmil
  - 💻 I’m use React.js witch TypeScript
