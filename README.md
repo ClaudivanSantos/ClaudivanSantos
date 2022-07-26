@@ -11,7 +11,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="[https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png](https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png)">
+  <img align="center" alt="Js" height="30" width="40" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png">
   <img align="center" alt="HTML" height="30" width="40" src="">
   <img align="center" alt="CSS" height="30" width="40" src="">
   <img align="center" alt="bootstrp" height="30" width="40" src="">
